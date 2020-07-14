@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">intent implicita</string>
+    <string name="EditText1"> Nome do cliente </string>
+    <string name="EditText2"> CPF do cliente</string>
+    <string name="EditText3"> Senha do cliente</string>
+    <string name="ButtonEnviar"> Enviar</string>
+    <string name="Usuario"> Teste </string>
+    <string name="Senha"> teste</string>
+    <string name="CPF"> testee</string>
+</resources>
